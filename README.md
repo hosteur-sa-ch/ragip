@@ -3,16 +3,16 @@ Ragnarokkr Ips
 
 ## ODIN ips (DC FR)
 
-odin.txt
+[ODIN](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/odin.txt)
 
 ## THOR ips (DC FR)
 
-thor.txt
+[THOR](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/thor.txt)
 
 ## SKADI ips (DC CH)
 
-skadi.txt
+[SKADI](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/skadi.txt)
 
 ## ZEUS ips (DC BG)
 
-zeus.txt
+[ZEUS](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/zeus.txt)
