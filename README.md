@@ -13,6 +13,6 @@ Ragnarokkr Ips
 
 [LAUSANNE](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/lausanne.txt)
 
-## MARTINIQUE ips (DC BG)
+## MARTINIQUE ips (DC MRQ)
 
 [MARTINIQUE](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/martinique.txt)
