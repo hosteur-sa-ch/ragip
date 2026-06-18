@@ -1,18 +1,18 @@
 # ragip
 Ragnarokkr Ips
 
-## ODIN ips (DC FR)
+## NICE ips (DC FR)
 
-[ODIN](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/odin.txt)
+[ODIN](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/nice.txt)
 
-## THOR ips (DC FR)
+## MARSEILLE ips (DC FR)
 
-[THOR](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/thor.txt)
+[THOR](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/marseille.txt)
 
-## SKADI ips (DC CH)
+## LAUSANNE ips (DC CH)
 
-[SKADI](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/skadi.txt)
+[SKADI](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/lausanne.txt)
 
-## ZEUS ips (DC BG)
+## MARTINIQUE ips (DC BG)
 
-[ZEUS](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/zeus.txt)
+[ZEUS](https://raw.githubusercontent.com/hosteur-sa-ch/ragip/main/martinique.txt)
